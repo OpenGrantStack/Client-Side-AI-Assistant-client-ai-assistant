@@ -1,0 +1,2 @@
+# Client-Side-AI-Assistant-client-ai-assistant
+Client‑Side AI Assistant — client-ai-assistant   markdown   🧩 OpenGrantStack Client‑Side AI Assistant   The Client‑Side AI Assistant provides in‑browser intelligence for users interacting with OpenGrantStack tools, dashboards, and workflows.   It enhances usability, accessibility, and productivity without requiring backend access or elevated.
